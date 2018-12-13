@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Deduction amount from the contract"
+  },
+  "description": {
+    "en": "Deduction amount from the contract due to the causes of the prohibitions"
+  },
+  "documentationUrl": {
+    "en": "http://httpbin.org/anything/path/to/documentation/in/specified/language"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
+}

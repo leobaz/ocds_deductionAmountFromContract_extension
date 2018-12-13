@@ -1,0 +1,20 @@
+{
+    "definitions": {
+        "Contracts": {
+            "properties": {
+                "deductionAmountFromContract": {
+                    "title": "Deduction amount from the contract",
+                    "description": "Deduction amount from the contract due to causes of prohibitions",
+                    "type": "number",
+                    "properties": {
+                        "value": {
+                            "title": "Value",
+                            "description": "The value of this deduction",
+                            "type": "number"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
