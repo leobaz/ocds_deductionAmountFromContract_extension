@@ -6,7 +6,7 @@
     "en": "Deduction amount from the contract due to the causes of the prohibitions"
   },
   "documentationUrl": {
-    "en": "http://httpbin.org/anything/path/to/documentation/in/specified/language"
+    "en": "https://github.com/leobaz/ocds_deductionAmountFromContract_extension"
   },
   "schemas": [
     "release-schema.json"
